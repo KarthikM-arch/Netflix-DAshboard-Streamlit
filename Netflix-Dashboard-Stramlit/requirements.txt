@@ -1,0 +1,10 @@
+netflix-dashboard-streamlit/
+│
+├── app.py
+├── netflix_titles.csv
+├── requirements.txt   ✅ (important)
+
+
+streamlit==1.33.0
+pandas==2.2.2
+plotly==5.22.0
